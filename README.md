@@ -1,4 +1,9 @@
 ## Hi there 👋
+## 🐍 My GitHub Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Vani27006/Vani27006/output/dist/github-snake.svg)
+
+![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/Vani27006/Vani27006/output/dist/github-snake-dark.svg)
 
 <!--
 **Vani27006/Vani27006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
